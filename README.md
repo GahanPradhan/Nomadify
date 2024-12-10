@@ -40,4 +40,3 @@ Watch the functionality of Nomadify in action:
 [![Nomadify Demo Video](https://i.postimg.cc/pVhRY52R/github-p2.jpg)](https://youtu.be/3Gz2S0HnGog)
 
 ---
-# Nomadify
